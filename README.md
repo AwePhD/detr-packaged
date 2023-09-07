@@ -13,6 +13,8 @@ We added the (notebook file)[./detr_demo.ipynb] to verify the model is working o
 
 Scripts are available from `python -m detr.scripts.*`.
 
+For d2 - detectron2 sub-module - installs detectron2 as specified in the original README below.
+
 **DE⫶TR**: End-to-End Object Detection with Transformers
 ========
 
